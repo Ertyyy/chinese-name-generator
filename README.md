@@ -31,7 +31,7 @@ An AI-powered web application that generates meaningful Chinese names for intern
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/chinese-name-generator.git
+   git clone https://github.com/Ertyyy/chinese-name-generator.git
    cd chinese-name-generator
    ```
 
@@ -140,7 +140,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/yourusername/chinese-name-generator/issues) page
+1. Check the [Issues](https://github.com/Ertyyy/chinese-name-generator/issues) page
 2. Create a new issue with detailed information
 3. Contact the maintainers
 
