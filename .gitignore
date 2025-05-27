@@ -31,6 +31,9 @@ yarn-error.log*
 .env.development
 .env.production
 
+# Allow .env.example
+!.env.example
+
 # vercel
 .vercel
 
@@ -42,4 +45,3 @@ next-env.d.ts
 *.key
 *.pem
 *.p12
-.env.example
