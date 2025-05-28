@@ -1,6 +1,8 @@
 import { NextResponse } from 'next/server';
 import { generateChineseNames } from '@/lib/deepseek';
 
+console.log("线上API KEY是否有：", process.env.DEEPSEEK_API_KEY ? "有" : "没有");
+
 export async function POST(request: Request) {
   try {
     const { name, description } = await request.json();
